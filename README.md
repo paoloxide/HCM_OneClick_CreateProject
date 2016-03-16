@@ -1,1 +1,2 @@
-# HCM_OneClick_CreateProject
+# HCM_Selenium
+Repository for the application to invoke selenium.
